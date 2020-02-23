@@ -1,0 +1,7 @@
+*.pyc
+.idea/
+.vscode/
+.mypy_cache/
+.pylint_cache/
+*.swp
+venv/
