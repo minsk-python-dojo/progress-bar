@@ -1,0 +1,2 @@
+class InvalidLengthParameterValue(Exception):
+    pass
